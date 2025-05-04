@@ -229,6 +229,5 @@ public class AddFeedFragment extends Fragment {
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Add Feed Screen");
         UXCam.logEvent("Entered AddFeedFragment");
-        throw new RuntimeException("Controlled UXCam crash");
     }
 }

@@ -42,9 +42,4 @@ If you want to translate AntennaPod into another language, you can visit our [We
 
 You can build AntennaPod just like any other Android project. Refer to the [instructions](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) for more details.
 
-## UXCam crash demo
-
-Navigate to the Add Podcast screen in order to trigger the controlled crash.
-
-1. In the Bottom Navigation Bar, click More
-2. Click Add podcast
+## UXCam demo

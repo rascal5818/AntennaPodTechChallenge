@@ -188,6 +188,6 @@ public class HomeFragment extends Fragment implements Toolbar.OnMenuItemClickLis
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Home Screen");
-        UXCam.logEvent("Entered HomeFragment");
+        UXCam.logEvent("Entered Home Screen");
     }
 }

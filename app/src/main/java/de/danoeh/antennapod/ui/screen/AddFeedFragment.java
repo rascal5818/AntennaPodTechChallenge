@@ -228,6 +228,6 @@ public class AddFeedFragment extends Fragment {
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Add Feed Screen");
-        UXCam.logEvent("Entered AddFeedFragment");
+        UXCam.logEvent("Entered Add Feed Screen");
     }
 }

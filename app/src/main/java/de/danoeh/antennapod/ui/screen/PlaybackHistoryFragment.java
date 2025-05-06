@@ -116,7 +116,7 @@ public class PlaybackHistoryFragment extends EpisodesListFragment {
         super.onResume();
         UXCam.occludeSensitiveScreen(true);
         UXCam.tagScreenName("Playback History Screen");
-        UXCam.logEvent("Entered PlaybackHistoryFragment");
+        UXCam.logEvent("Entered Playback History Screen");
     }
 
     @Override

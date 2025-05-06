@@ -156,6 +156,6 @@ public class InboxFragment extends EpisodesListFragment {
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Inbox Screen");
-        UXCam.logEvent("Entered InboxFragment");
+        UXCam.logEvent("Entered Inbox Screen");
     }
 }

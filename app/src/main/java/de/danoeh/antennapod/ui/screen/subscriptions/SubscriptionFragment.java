@@ -424,6 +424,6 @@ public class SubscriptionFragment extends Fragment
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Subscriptions Screen");
-        UXCam.logEvent("Entered SubscriptionsFragment");
+        UXCam.logEvent("Entered Subscriptions Screen");
     }
 }

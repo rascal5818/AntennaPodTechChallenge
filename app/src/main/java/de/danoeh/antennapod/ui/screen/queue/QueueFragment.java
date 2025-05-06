@@ -732,6 +732,6 @@ public class QueueFragment extends Fragment implements MaterialToolbar.OnMenuIte
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Queue Screen");
-        UXCam.logEvent("Entered QueueFragment");
+        UXCam.logEvent("Entered Queue Screen");
     }
 }

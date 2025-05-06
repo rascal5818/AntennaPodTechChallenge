@@ -130,14 +130,14 @@ public class MainActivity extends CastEnabledActivity {
                 .enableAutomaticScreenNameTagging(true)
                 .build();
         UXCam.startWithConfiguration(config);
-        UXCam.setUserIdentity("Lorene Lynch");
-        UXCam.setUserProperty("gender", "female");
-        UXCam.setUserProperty("age", "28");
-        UXCam.setUserProperty("dob", "01-01-1980");
-        UXCam.setUserProperty("language", "es");
+        UXCam.setUserIdentity("Reis Caffrey");
+        UXCam.setUserProperty("gender", "male");
+        UXCam.setUserProperty("age", "32");
+        UXCam.setUserProperty("dob", "01-01-1970");
+        UXCam.setUserProperty("language", "eng");
         UXCam.setUserProperty("role", "user");
-        UXCam.setUserProperty("subscription_type", "free");
-        UXCam.setUserProperty("company_name", "amazon");
+        UXCam.setUserProperty("subscription_type", "premium");
+        UXCam.setUserProperty("company_name", "uxcam");
         // end UXCam initialization
 
         lastTheme = ThemeSwitcher.getNoTitleTheme(this);

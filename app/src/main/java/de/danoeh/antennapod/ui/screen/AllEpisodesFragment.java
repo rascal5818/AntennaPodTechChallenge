@@ -178,6 +178,6 @@ public class AllEpisodesFragment extends EpisodesListFragment {
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("All Episodes Screen");
-        UXCam.logEvent("Entered AllEpisodesFragment");
+        UXCam.logEvent("Entered All Episodes Screen");
     }
 }

@@ -43,3 +43,7 @@ If you want to translate AntennaPod into another language, you can visit our [We
 You can build AntennaPod just like any other Android project. Refer to the [instructions](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) for more details.
 
 ## UXCam demo
+
+1. Playback History screen is occluded
+2. Main app screens are tagged e.g. Inbox Screen
+3. Custom user properties are visible in UXCam Dashboard

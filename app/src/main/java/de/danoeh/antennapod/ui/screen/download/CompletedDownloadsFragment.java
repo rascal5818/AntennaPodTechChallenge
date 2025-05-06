@@ -425,6 +425,6 @@ public class CompletedDownloadsFragment extends Fragment
         super.onResume();
         UXCam.occludeSensitiveScreen(false);
         UXCam.tagScreenName("Completed Downloads Screen");
-        UXCam.logEvent("Entered CompletedDownloadsFragment");
+        UXCam.logEvent("Entered Completed Downloads Screen");
     }
 }
